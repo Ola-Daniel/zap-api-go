@@ -1,8 +1,7 @@
 This Project is a Zed Attack Proxy (ZAP) SDK for the go programming language. It provides Go client implementation to access the [Zed Attack Proxy (ZAP) API](https://www.zaproxy.org/docs/api/) programmatically to enable automated vulnerability analysis for web applications. 
 
-<br> 
-<br>
-For more information about ZAP consult the [ZAP project (main)](https://www.zaproxy.org/docs/api/)
+
+For more information about ZAP consult the [ZAP project (main) ](https://www.zaproxy.org/docs/api/)
 
 
 

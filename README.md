@@ -2,7 +2,7 @@ This Project is a Zed Attack Proxy (ZAP) SDK for the go programming language. It
 
 <br> 
 <br>
-For more information about ZAP consult the (main) [ZAP project](https://www.zaproxy.org/docs/api/).
+For more information about ZAP consult the [ZAP project (main)](https://www.zaproxy.org/docs/api/)
 
 
 
